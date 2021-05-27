@@ -34,7 +34,9 @@ It won't build out-of-the-box on other OSes, because i haven't adjusted it prope
 ## Contact and support
 
 My Discord handle: SteelPh0enix#6969
+
 Raylib Discord server: <https://discord.gg/raylib>
+
 Raylib homepage: <https://www.raylib.com/>
 
 ## License
